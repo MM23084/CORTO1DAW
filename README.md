@@ -44,8 +44,13 @@ API REST para verificación de autenticación
 Notas del Desarrollo
 
 -Se utilizó el wrapper de Maven (mvnw) para compilar la aplicación dentro del contenedor
+
+
 -Se configuró el parámetro -DskipTests para evitar la ejecución de pruebas durante la compilación
+
+
 -Se excluyó la carpeta target/ del repositorio mediante el archivo .gitignore
+
 
 Autor:
 
